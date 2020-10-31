@@ -10,7 +10,8 @@
       <li>Python</li>
       <li>PostegreSQL</li>
       <li>HTML5</li>
-      <li>Model-View-Controller design pattern</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
     </ul>
   </div>
 
