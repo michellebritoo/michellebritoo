@@ -18,10 +18,10 @@
   <div>               <!-- LINKS--->
   <h3> Shall we connect?</h3>
     <nav>
-      <h4><a target="blank_" href = "https://www.instagram.com/michebritoo"> Instagram</a></h4>
-      <h4><a target="blank_" href = "https://www.linkedin.com/in/michelle-brito-cunha-6885121a2/"> Linkedin</a></h4>
-      <h4><a target="blank_" href = "https://www.facebook.com/michellecunhask8">Facebook</a></h4>
-      <h4><a target="blank_" href = "https://www.researchgate.net/publication/335437381_O_Jogo_de_Xadrez_como_ferramenta_de_desenvolvimento_do_raciocinio_logico-matematico_com_alunos_do_4_ano_do_Ensino_Fundamental"> scientific article</a></h4>
+      <h4><a target="_blank" href = "https://www.instagram.com/michebritoo"> Instagram</a></h4>
+      <h4><a target="_blank" href = "https://www.linkedin.com/in/michellebrito01/"> Linkedin</a></h4>
+      <h4><a target="_blank href = "https://www.facebook.com/michellecunhask8">Facebook</a></h4>
+      <h4><a target="_blank" href = "https://www.researchgate.net/publication/335437381_O_Jogo_de_Xadrez_como_ferramenta_de_desenvolvimento_do_raciocinio_logico-matematico_com_alunos_do_4_ano_do_Ensino_Fundamental"> scientific article</a></h4>
    </nav>
 </div>
 </html>
