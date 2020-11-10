@@ -7,8 +7,9 @@
   <h3> I've been studying </h3>
     <ul>
       <li>Java</li>
+      <li>C#</li>
       <li>Python</li>
-      <li>PostegreSQL</li>
+      <li>SQL</li>
       <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript</li>
@@ -21,7 +22,7 @@
       <h4><a target="_blank" href = "https://www.instagram.com/michebritoo"> Instagram</a></h4>
       <h4><a target="_blank" href = "https://www.linkedin.com/in/michellebrito01/"> Linkedin</a></h4>
       <h4><a target="_blank" href = "https://www.facebook.com/michellecunhask8">Facebook</a></h4>
-      <h4><a target="_blank" href = "https://www.researchgate.net/publication/335437381_O_Jogo_de_Xadrez_como_ferramenta_de_desenvolvimento_do_raciocinio_logico-matematico_com_alunos_do_4_ano_do_Ensino_Fundamental"> scientific article</a></h4>
+      <h4><a target="_blank" href = "https://www.researchgate.net/publication/335437381_O_Jogo_de_Xadrez_como_ferramenta_de_desenvolvimento_do_raciocinio_logico-     matematico_com_alunos_do_4_ano_do_Ensino_Fundamental"> scientific article</a></h4>
    </nav>
 </div>
 </html>
