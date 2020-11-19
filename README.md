@@ -9,10 +9,11 @@
       <li>Java</li>
       <li>C#</li>
       <li>Python</li>
-      <li>SQL</li>
+      <li>PHP</li>
       <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript</li>
+      <li>SQL</li>
     </ul>
   </div>
 
