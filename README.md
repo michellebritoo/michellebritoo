@@ -12,4 +12,7 @@
 - CSS3
 - SQL
 
-![Github_bagde](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=michellebritoo&layout=compact&theme=dracula)
+![Github_bagde](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=michellebritoo&layout=compact&theme=synthwave)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellebritoo&show_icons=true&theme=synthwave)
