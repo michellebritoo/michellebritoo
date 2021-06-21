@@ -10,6 +10,7 @@
 - C#
 - HTML5
 - CSS3
+- JavaScript
 - SQL
 
 ![Github_bagde](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=michellebritoo&layout=compact&theme=synthwave)
