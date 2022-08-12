@@ -1,8 +1,16 @@
 # Michelle Brito
+
+#### Graduanda em Sistemas de Informação na FACCAT e desenvolvedora Android
+
+![Github](https://github-readme-stats.vercel.app/api?username=michellebritoo&theme=blue)
+
+![Android_bagde](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin_bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java_badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Sqlite_badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height=40px />
+
+----
+
+## Conecte-se comigo!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michellebrito01/)](https://www.linkedin.com/in/michellebrito01/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/michebritoo/)  [![Facebook Badge](	https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/michellecunhask8/)
-
-### Graduanda em Sistemas de Informação na FACCAT, atualmente trabalhando com desenvolvimento Android.
-
-![Github_badge](https://github-readme-stats.vercel.app/api/top-langs/?username=michellebritoo&layout=compact&langs_count=7&theme=dark)
-
-![Android_bagde](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin_bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![CSharp_badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java_badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQLServer_badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
