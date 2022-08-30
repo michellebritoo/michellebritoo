@@ -2,12 +2,11 @@
 
 #### Graduanda em Sistemas de Informação na FACCAT e desenvolvedora Android
 
-![Github](https://github-readme-stats.vercel.app/api?username=michellebritoo&theme=blue)
+![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=michellebritoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=false)
 
 ![Android_bagde](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin_bagde](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java_badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Sqlite_badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height=40px />
 
 ----
