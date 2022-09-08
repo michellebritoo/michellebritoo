@@ -3,6 +3,18 @@
 #### 🎓 Academic in Information Systems at FACCAT
 #### 💻 Android developer
 
+## About me:
+``` JSON
+{
+  "developer" : {
+    "name": "Michelle Brito",
+    "age": 20,
+    "currentProject": "Pagbank",
+    "yearsOfExperience": 3
+  }
+}
+```
+
 ![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=michellebritoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=false)
 
 ![Android_bagde](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
