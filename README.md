@@ -1,6 +1,7 @@
 # Michelle Brito
 
-#### Graduanda em Sistemas de Informação na FACCAT e desenvolvedora Android
+#### 🎓 Academic in Information Systems at FACCAT
+#### 💻 Android developer
 
 ![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=michellebritoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=false)
 
@@ -11,5 +12,5 @@
 
 ----
 
-## Conecte-se comigo!
+## Find me on social media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michellebrito01/)](https://www.linkedin.com/in/michellebrito01/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/michebritoo/)  [![Facebook Badge](	https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/michellecunhask8/)
