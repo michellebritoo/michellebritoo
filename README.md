@@ -1,6 +1,6 @@
 # Michelle Brito
 
-#### 🎓 Academic in Information Systems at FACCAT
+#### 🎓 Information Systems at FACCAT
 #### 💻 Android developer
 
 ## About me:
@@ -8,7 +8,7 @@
 {
   "developer" : {
     "name": "Michelle Brito",
-    "age": 20,
+    "age": 21,
     "currentProject": "Pagbank"
   }
 }
