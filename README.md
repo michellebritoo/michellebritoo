@@ -9,7 +9,7 @@
   "developer" : {
     "name": "Michelle Brito",
     "age": 21,
-    "currentProject": "Pagbank"
+    "currentProject": "PagBank"
   }
 }
 ```
