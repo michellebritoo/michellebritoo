@@ -8,7 +8,7 @@
 {
   "developer" : {
     "name": "Michelle Brito",
-    "age": 22,
+    "stack": "Native Android | Kotlin",
     "currentProject": "PagBank"
   }
 }
