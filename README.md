@@ -9,7 +9,7 @@
   "developer" : {
     "name": "Michelle Brito",
     "stack": "Native Android | Kotlin",
-    "currentProject": "PagBank"
+    "currentProject": "PicPay"
   }
 }
 ```
