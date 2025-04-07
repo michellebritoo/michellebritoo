@@ -1,6 +1,6 @@
 # Michelle Brito
 
-#### 🎓 Information Systems at FACCAT
+#### 🎓 Bachelor's degree in Information Systems | [FACCAT](https://www2.faccat.br/portal/?q=Sistemas%20de%20Informacao%20_Bacharelado)
 #### 💻 Android developer
 
 ## About me:
