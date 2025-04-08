@@ -25,12 +25,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-
-###
----
-<div align="center">
-  <a href="https://wwww.linkedin.com/in/michellebrito01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wwww.linkedin.com/in/michellebrito01">Michelle Brito</a>
-</div>
