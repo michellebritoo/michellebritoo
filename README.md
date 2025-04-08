@@ -14,7 +14,7 @@
 }
 ```
 
-![Github](https://github-readme-stats-eight-theta.vercel.app/api?username=michellebritoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues)
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michellebritoo&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
